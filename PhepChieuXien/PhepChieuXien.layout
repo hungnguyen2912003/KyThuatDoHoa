@@ -1,0 +1,20 @@
+[
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "E:/Graphics/PhepChieuXien/PhepChieuXien.cpp",
+        "focused": true,
+        "isOpen": true,
+        "leftChar": 1,
+        "order": 0,
+        "topLine": 1
+    }
+]
+[Editors]
+Order=0
+Focused=0
+[Editor_0]
+CursorCol=4
+CursorRow=16
+TopLine=1
+LeftChar=1
